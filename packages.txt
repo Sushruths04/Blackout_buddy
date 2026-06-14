@@ -1,0 +1,4 @@
+libgomp1
+build-essential
+cmake
+libopenblas-dev

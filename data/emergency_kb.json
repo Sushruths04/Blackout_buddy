@@ -1,0 +1,695 @@
+[
+  {
+    "id": "severe_bleeding",
+    "title": "Severe bleeding",
+    "category": "First Aid",
+    "urgency": "critical",
+    "keywords": ["bleeding", "blood", "cut", "wound", "hemorrhage"],
+    "steps": [
+      "Make sure the scene is safe and use gloves or a clean barrier if available.",
+      "Press firmly and continuously on the wound with gauze or the cleanest cloth available.",
+      "If blood soaks through, add more material on top. Do not remove the first layer.",
+      "Keep pressure on the wound. If trained and bleeding from an arm or leg will not stop, use a commercial tourniquet as directed.",
+      "Keep the person still and warm. Seek trained medical help as soon as any route is available."
+    ],
+    "avoid": [
+      "Do not probe the wound or remove a deeply embedded object.",
+      "Do not release pressure repeatedly to check whether bleeding has stopped."
+    ],
+    "source_name": "American Red Cross - First Aid Steps",
+    "source_url": "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "unsafe_water",
+    "title": "Unsafe drinking water",
+    "category": "Water",
+    "urgency": "high",
+    "keywords": ["water", "boil", "purify", "contaminated", "drink", "filter"],
+    "steps": [
+      "Use sealed bottled water if it is available and undamaged.",
+      "For cloudy water, let sediment settle and pour off the clearer water, or filter it through a clean cloth.",
+      "Bring clear water to a rolling boil for 1 minute. Above 6,500 feet (about 2,000 meters), boil for 3 minutes.",
+      "Let it cool naturally and store it in a clean, tightly covered container.",
+      "Use safe water for drinking, cooking, brushing teeth, washing dishes, and making infant formula."
+    ],
+    "avoid": [
+      "Boiling or disinfecting cannot make water contaminated by fuel, toxic chemicals, or radioactive material safe.",
+      "Do not drink water from home heating radiators or boilers."
+    ],
+    "source_name": "CDC - How to Make Water Safe in an Emergency",
+    "source_url": "https://www.cdc.gov/water-emergency/about/index.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "building_fire",
+    "title": "Fire in a building",
+    "category": "Fire",
+    "urgency": "critical",
+    "keywords": ["fire", "smoke", "building", "evacuate", "flames"],
+    "steps": [
+      "Leave immediately by the nearest safe exit. Warn others as you go.",
+      "Stay low under smoke and crawl if necessary.",
+      "Feel a closed door with the back of your hand before opening it. Use another route if it is hot.",
+      "Close doors behind you to slow fire and smoke.",
+      "Once outside, move to the meeting point and do not re-enter."
+    ],
+    "avoid": [
+      "Do not use an elevator.",
+      "Do not stop to collect belongings or return for people, pets, or equipment."
+    ],
+    "source_name": "Ready.gov - Home Fires",
+    "source_url": "https://www.ready.gov/home-fires",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "unconscious_not_breathing",
+    "title": "Unresponsive and not breathing normally",
+    "category": "First Aid",
+    "urgency": "critical",
+    "keywords": ["unconscious", "not breathing", "gasping", "cpr", "cardiac arrest"],
+    "steps": [
+      "Check the scene, then shout and tap the person. Check breathing for no more than 10 seconds.",
+      "Tell someone to contact emergency services and bring an AED if any service or device is reachable.",
+      "Place the person on a firm, flat surface.",
+      "Start chest compressions in the center of the chest: hard and fast, 100 to 120 per minute.",
+      "Use an AED as soon as available and follow its prompts. Continue until normal breathing returns or trained help takes over."
+    ],
+    "avoid": [
+      "Gasping is not normal breathing.",
+      "Do not delay compressions while searching for equipment."
+    ],
+    "source_name": "American Red Cross - CPR Steps",
+    "source_url": "https://www.redcross.org/take-a-class/cpr/performing-cpr/cpr-steps",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "flash_flood",
+    "title": "Flash flood",
+    "category": "Disaster",
+    "urgency": "critical",
+    "keywords": ["flood", "flash flood", "rising water", "river", "storm"],
+    "steps": [
+      "Move immediately to higher ground or the highest safe level of a sturdy building.",
+      "Follow marked evacuation routes if they remain open.",
+      "If trapped in a building, move upward but avoid a closed attic unless you can reach the roof.",
+      "If trapped in a vehicle in rapidly moving water, leave for higher ground only when doing so is safer than remaining inside.",
+      "Listen to a battery radio or local alerts when available."
+    ],
+    "avoid": [
+      "Never walk, swim, or drive through floodwater.",
+      "Stay away from bridges over fast-moving water and from fallen power lines."
+    ],
+    "source_name": "Ready.gov - Floods",
+    "source_url": "https://www.ready.gov/floods",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "stroke",
+    "title": "Possible stroke",
+    "category": "Medical",
+    "urgency": "critical",
+    "keywords": ["stroke", "face droop", "arm weakness", "speech", "fast"],
+    "steps": [
+      "Use FAST: check for Face drooping, Arm weakness, and Speech difficulty.",
+      "Note the exact time symptoms started or the last time the person was known to be well.",
+      "Contact emergency medical help by any available route. Stroke treatment is time-sensitive.",
+      "Keep the person resting in a safe position and monitor breathing.",
+      "If the person becomes unresponsive and is not breathing normally, start CPR."
+    ],
+    "avoid": [
+      "Do not give food, drink, aspirin, or other medicine unless a clinician directs it.",
+      "Do not let the person drive."
+    ],
+    "source_name": "CDC - Signs and Symptoms of Stroke",
+    "source_url": "https://www.cdc.gov/stroke/signs-symptoms/index.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "heatstroke",
+    "title": "Heatstroke",
+    "category": "Medical",
+    "urgency": "critical",
+    "keywords": ["heatstroke", "hot", "confused", "heat", "high temperature"],
+    "steps": [
+      "Move the person to shade or a cooler place and remove excess clothing.",
+      "Contact emergency medical help by any available route.",
+      "Cool rapidly with cool water, wet cloths, a fan, or ice packs at the neck, armpits, and groin.",
+      "If safe and practical, immerse the body in cool water while keeping the airway clear.",
+      "Monitor breathing and be ready to start CPR."
+    ],
+    "avoid": [
+      "Do not give fluids to a confused, vomiting, seizing, or unconscious person.",
+      "Do not use fever medicine; heatstroke is not an infection-related fever."
+    ],
+    "source_name": "CDC/NIOSH - Heat-related Illnesses",
+    "source_url": "https://www.cdc.gov/niosh/heat-stress/about/illnesses.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "hypothermia",
+    "title": "Hypothermia",
+    "category": "Medical",
+    "urgency": "critical",
+    "keywords": ["hypothermia", "cold", "shivering", "confused", "wet"],
+    "steps": [
+      "Move the person out of wind and wet conditions into shelter.",
+      "Remove wet clothing gently and replace it with dry layers and blankets.",
+      "Warm the center of the body first: chest, neck, head, and groin.",
+      "Give warm, sweet, nonalcoholic drinks only if the person is fully awake and can swallow.",
+      "Handle gently, monitor breathing, and seek trained help."
+    ],
+    "avoid": [
+      "Do not use direct intense heat, hot water, heating lamps, or rub the arms and legs.",
+      "Do not give alcohol."
+    ],
+    "source_name": "CDC - Preventing Hypothermia",
+    "source_url": "https://www.cdc.gov/winter-weather/prevention/index.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "snakebite",
+    "title": "Snakebite",
+    "category": "First Aid",
+    "urgency": "critical",
+    "keywords": ["snake", "bite", "venom", "fang"],
+    "steps": [
+      "Move away from the snake. Do not try to capture or kill it.",
+      "Keep the person calm, still, and lying or sitting with the bite in a neutral comfortable position.",
+      "Remove rings, watches, and tight clothing before swelling begins.",
+      "Wash loosely with soap and water if available, then cover with a clean dry dressing.",
+      "Mark the edge of swelling with the time and seek emergency medical care urgently."
+    ],
+    "avoid": [
+      "Do not cut or suck the wound, apply ice, use electric shock, or apply a tourniquet.",
+      "Do not give alcohol or pain medicines that increase bleeding unless directed by a clinician."
+    ],
+    "source_name": "CDC/NIOSH - Venomous Snakes",
+    "source_url": "https://www.cdc.gov/niosh/outdoor-workers/about/venomous-snakes.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "extended_power_outage",
+    "title": "Extended power outage",
+    "category": "Disaster",
+    "urgency": "high",
+    "keywords": ["blackout", "power outage", "electricity", "grid", "generator"],
+    "steps": [
+      "Use flashlights instead of candles where possible.",
+      "Keep refrigerator and freezer doors closed. A refrigerator stays cold about 4 hours when unopened.",
+      "Disconnect sensitive electronics to reduce surge damage when power returns.",
+      "Use generators outdoors at least 20 feet from windows, doors, and vents.",
+      "Prioritize safe water, medications, temperature protection, and battery radio updates."
+    ],
+    "avoid": [
+      "Never use a generator, grill, or fuel-burning heater indoors or in a garage.",
+      "Do not taste food to decide whether it is safe."
+    ],
+    "source_name": "Ready.gov - Power Outages",
+    "source_url": "https://www.ready.gov/power-outages",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "adult_choking",
+    "title": "Conscious adult or child choking",
+    "category": "First Aid",
+    "urgency": "critical",
+    "keywords": ["choking", "cannot speak", "cannot cough", "airway", "food"],
+    "steps": [
+      "If the person can cough or speak, encourage coughing and watch closely.",
+      "If they cannot cough, speak, or breathe, have someone contact emergency services if reachable.",
+      "Give 5 firm back blows between the shoulder blades.",
+      "Give 5 abdominal thrusts for a non-pregnant adult or child over 1 year. Use chest thrusts for pregnancy or when you cannot encircle the abdomen.",
+      "Repeat sets of 5 back blows and 5 thrusts until the object clears or the person becomes unresponsive."
+    ],
+    "avoid": [
+      "Do not perform a blind finger sweep.",
+      "Do not use abdominal thrusts on an infant under 1 year."
+    ],
+    "source_name": "St John Ambulance - Choking",
+    "source_url": "https://www.sja.org.uk/first-aid-advice/choking/",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "burn",
+    "title": "Thermal burn",
+    "category": "First Aid",
+    "urgency": "high",
+    "keywords": ["burn", "scald", "hot", "flame", "blister"],
+    "steps": [
+      "Stop contact with the heat source and make sure the scene is safe.",
+      "Cool the burn under clean, cool running water for 20 minutes when available.",
+      "Remove jewelry and loose clothing near the burn unless stuck to skin.",
+      "Cover loosely with sterile non-stick dressing or clean plastic film.",
+      "Seek urgent medical care for deep, large, electrical, chemical, face, hand, genital, or airway burns."
+    ],
+    "avoid": [
+      "Do not use ice, butter, grease, toothpaste, or adhesive dressings.",
+      "Do not break blisters or pull away material stuck to the burn."
+    ],
+    "source_name": "NHS - Burns and Scalds Treatment",
+    "source_url": "https://www.nhs.uk/conditions/burns-and-scalds/treatment/",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "fracture",
+    "title": "Possible broken bone",
+    "category": "First Aid",
+    "urgency": "high",
+    "keywords": ["fracture", "broken bone", "deformed", "limb", "injury"],
+    "steps": [
+      "Control serious bleeding first and keep the person still.",
+      "Support the injured area in the position found using padding.",
+      "If help will be delayed and movement is necessary, splint above and below the injury without forcing it straight.",
+      "Check circulation beyond the injury before and after splinting.",
+      "Use a wrapped cold pack for swelling and seek medical evaluation."
+    ],
+    "avoid": [
+      "Do not push an exposed bone back in or straighten a deformed limb.",
+      "Do not move a person with a possible spine, pelvis, or thigh injury unless immediate danger requires it."
+    ],
+    "source_name": "American Red Cross - First Aid Steps",
+    "source_url": "https://www.redcross.org/take-a-class/first-aid/performing-first-aid/first-aid-steps",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "shock",
+    "title": "Shock after injury or illness",
+    "category": "First Aid",
+    "urgency": "critical",
+    "keywords": ["shock", "pale", "clammy", "weak pulse", "faint"],
+    "steps": [
+      "Treat the cause you can see, especially severe bleeding.",
+      "Lay the person flat if breathing is comfortable and there is no suspected spine, pelvis, or leg injury.",
+      "Keep the person warm without overheating.",
+      "Reassure them, keep them still, and monitor breathing.",
+      "Seek emergency medical help by any available route."
+    ],
+    "avoid": [
+      "Do not give food or drink.",
+      "Do not raise the legs if it causes pain, breathing difficulty, or you suspect a serious injury."
+    ],
+    "source_name": "NHS - First Aid",
+    "source_url": "https://www.nhs.uk/tests-and-treatments/first-aid/",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "seizure",
+    "title": "Seizure",
+    "category": "Medical",
+    "urgency": "high",
+    "keywords": ["seizure", "convulsion", "shaking", "epilepsy"],
+    "steps": [
+      "Clear nearby hard or sharp objects and cushion the person's head.",
+      "Time the seizure and loosen tight clothing around the neck.",
+      "When movement stops, place the person on their side if breathing.",
+      "Stay with them and speak calmly as awareness returns.",
+      "Seek emergency help for a seizure lasting 5 minutes or more, repeated seizures, injury, pregnancy, breathing trouble, or a first seizure."
+    ],
+    "avoid": [
+      "Do not restrain the person.",
+      "Do not put anything in their mouth or give food, water, or medicine until fully alert."
+    ],
+    "source_name": "CDC - Seizure First Aid",
+    "source_url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "anaphylaxis",
+    "title": "Severe allergic reaction",
+    "category": "Medical",
+    "urgency": "critical",
+    "keywords": ["allergy", "anaphylaxis", "swelling", "epinephrine", "hives"],
+    "steps": [
+      "Use the person's epinephrine auto-injector immediately if severe symptoms are present and the device is available.",
+      "Contact emergency medical help by any available route.",
+      "Have the person lie down with legs raised if breathing allows; let them sit up if breathing is difficult.",
+      "A second prescribed dose may be needed after 5 to 15 minutes if symptoms persist and help has not arrived.",
+      "Monitor breathing and start CPR if the person becomes unresponsive and stops breathing normally."
+    ],
+    "avoid": [
+      "Do not rely on antihistamines for airway swelling or breathing difficulty.",
+      "Do not let the person stand or walk suddenly."
+    ],
+    "source_name": "NHS - Anaphylaxis",
+    "source_url": "https://www.nhs.uk/conditions/anaphylaxis/",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "low_blood_sugar",
+    "title": "Low blood sugar",
+    "category": "Medical",
+    "urgency": "high",
+    "keywords": ["diabetes", "low blood sugar", "hypoglycemia", "shaky", "insulin"],
+    "steps": [
+      "If the person is awake and can swallow, give 15 grams of fast-acting carbohydrate, such as glucose tablets or about 4 ounces of juice.",
+      "Wait 15 minutes and recheck blood sugar if a meter is available.",
+      "Repeat fast-acting carbohydrate if the level remains low or symptoms continue.",
+      "Once improved, give a snack containing carbohydrate and protein if the next meal is not soon.",
+      "If unconscious or unable to swallow, use prescribed glucagon if available and trained, place on their side, and seek emergency help."
+    ],
+    "avoid": [
+      "Do not give food or drink to an unconscious or poorly responsive person.",
+      "Do not give insulin for suspected low blood sugar."
+    ],
+    "source_name": "American Diabetes Association - Hypoglycemia",
+    "source_url": "https://diabetes.org/living-with-diabetes/hypoglycemia-low-blood-glucose",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "poisoning",
+    "title": "Possible poisoning",
+    "category": "Medical",
+    "urgency": "critical",
+    "keywords": ["poison", "swallowed chemical", "overdose", "toxin"],
+    "steps": [
+      "Move away from fumes or spilled material only if you can do so safely.",
+      "Check breathing and start CPR if needed, using a barrier device if available.",
+      "Identify the substance, amount, and time of exposure. Keep the container or label.",
+      "Contact a poison center or emergency medical service by any available route.",
+      "Follow substance-specific professional instructions."
+    ],
+    "avoid": [
+      "Do not make the person vomit unless a poison specialist directs it.",
+      "Do not give food, drink, charcoal, or a home remedy unless directed."
+    ],
+    "source_name": "Poison Control - First Aid",
+    "source_url": "https://www.poison.org/first-aid-for-poisonings",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "chemical_eye",
+    "title": "Chemical in the eye",
+    "category": "First Aid",
+    "urgency": "critical",
+    "keywords": ["chemical", "eye", "splash", "acid", "alkali"],
+    "steps": [
+      "Protect yourself from the chemical and remove contaminated gloves or clothing.",
+      "Immediately rinse the eye with clean lukewarm water for at least 20 minutes.",
+      "Hold the eyelids open and let water flow away from the unaffected eye.",
+      "Remove contact lenses if they come out easily during rinsing.",
+      "Seek urgent medical evaluation and bring the product label if safe."
+    ],
+    "avoid": [
+      "Do not rub the eye.",
+      "Do not try to neutralize one chemical with another or put drops in unless directed."
+    ],
+    "source_name": "NHS - Acid and Chemical Burns",
+    "source_url": "https://www.nhs.uk/conditions/acid-and-chemical-burns/",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "earthquake",
+    "title": "Earthquake",
+    "category": "Disaster",
+    "urgency": "critical",
+    "keywords": ["earthquake", "shaking", "aftershock", "collapse"],
+    "steps": [
+      "Drop to your hands and knees, cover your head and neck, and hold on to sturdy shelter.",
+      "If indoors, stay inside and away from windows. If outdoors, move to an open area away from buildings and wires.",
+      "After shaking stops, expect aftershocks and check for injuries and fire.",
+      "Leave a damaged building by stairs when the route is safe.",
+      "If near the coast and shaking was strong or long, move to high ground for possible tsunami."
+    ],
+    "avoid": [
+      "Do not run outside during shaking.",
+      "Do not use elevators or enter visibly damaged buildings."
+    ],
+    "source_name": "Ready.gov - Earthquakes",
+    "source_url": "https://www.ready.gov/earthquakes",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "tornado",
+    "title": "Tornado",
+    "category": "Disaster",
+    "urgency": "critical",
+    "keywords": ["tornado", "twister", "funnel", "warning"],
+    "steps": [
+      "Go to a basement, storm shelter, or small interior room on the lowest floor.",
+      "Stay away from windows, doors, and outside walls.",
+      "Protect your head and neck with your arms, a helmet, mattress, or heavy blanket.",
+      "In a vehicle, reach a sturdy shelter if it is close and safe.",
+      "Keep listening for warnings and wait for an official all-clear when available."
+    ],
+    "avoid": [
+      "Do not shelter under a highway overpass.",
+      "Do not try to outrun a tornado through congested or uncertain roads."
+    ],
+    "source_name": "Ready.gov - Tornadoes",
+    "source_url": "https://www.ready.gov/tornadoes",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "hurricane",
+    "title": "Hurricane or severe coastal storm",
+    "category": "Disaster",
+    "urgency": "high",
+    "keywords": ["hurricane", "cyclone", "storm surge", "coastal storm"],
+    "steps": [
+      "Evacuate promptly when authorities order it, especially from storm-surge zones.",
+      "If sheltering, use a small interior room away from windows on the lowest level not threatened by flooding.",
+      "Store safe water, medication, lights, batteries, and a radio before conditions worsen.",
+      "Keep devices charged and turn refrigerators colder before power loss.",
+      "Remain sheltered through the eye of the storm; dangerous winds return from the opposite direction."
+    ],
+    "avoid": [
+      "Do not ignore evacuation orders.",
+      "Do not enter floodwater or use fuel-burning equipment indoors."
+    ],
+    "source_name": "Ready.gov - Hurricanes",
+    "source_url": "https://www.ready.gov/hurricanes",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "wildfire",
+    "title": "Wildfire",
+    "category": "Fire",
+    "urgency": "critical",
+    "keywords": ["wildfire", "brush fire", "smoke", "evacuation"],
+    "steps": [
+      "Leave early when told to evacuate; use the planned route and a backup route.",
+      "Close windows and doors and turn off ventilation that draws outdoor smoke inside.",
+      "Wear an N95 respirator if available when exposed to smoke.",
+      "If trapped, call or signal your location, move to a cleared area with little fuel, and cover exposed skin.",
+      "Afterward, watch for hot spots, damaged trees, and downed utility lines."
+    ],
+    "avoid": [
+      "Do not wait until flames are visible before evacuating.",
+      "Do not use a wet cloth as a substitute for a respirator against fine smoke particles."
+    ],
+    "source_name": "Ready.gov - Wildfires",
+    "source_url": "https://www.ready.gov/wildfires",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "carbon_monoxide",
+    "title": "Carbon monoxide exposure",
+    "category": "Medical",
+    "urgency": "critical",
+    "keywords": ["carbon monoxide", "generator", "headache", "dizzy", "co alarm"],
+    "steps": [
+      "Move everyone into fresh air immediately without putting yourself at risk.",
+      "Contact emergency services and the fire department by any available route.",
+      "Check breathing and start CPR if needed.",
+      "Keep people away from the building or vehicle until it has been declared safe.",
+      "Seek medical evaluation even if symptoms improve."
+    ],
+    "avoid": [
+      "Do not re-enter to find the source.",
+      "Never run a generator, grill, vehicle, or other fuel-burning device in a home, garage, or near openings."
+    ],
+    "source_name": "CDC - Carbon Monoxide Poisoning",
+    "source_url": "https://www.cdc.gov/carbon-monoxide/about/index.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "wound_cleaning",
+    "title": "Cleaning a minor wound",
+    "category": "First Aid",
+    "urgency": "medium",
+    "keywords": ["wound", "cut", "scrape", "clean", "infection"],
+    "steps": [
+      "Wash or sanitize your hands and use gloves if available.",
+      "Control bleeding with gentle direct pressure.",
+      "Rinse the wound with clean running water and remove loose visible dirt with clean tweezers.",
+      "Apply a thin layer of petroleum jelly or suitable antibiotic ointment if available and tolerated.",
+      "Cover with a sterile dressing and replace it when wet or dirty. Watch for spreading redness, warmth, swelling, pus, fever, or worsening pain."
+    ],
+    "avoid": [
+      "Do not pour bleach or harsh disinfectant into a wound.",
+      "Do not close a deep, dirty, puncture, animal-bite, or heavily contaminated wound yourself."
+    ],
+    "source_name": "NHS - Cuts and Grazes",
+    "source_url": "https://www.nhs.uk/conditions/cuts-and-grazes/",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "food_safety_outage",
+    "title": "Food safety during an outage",
+    "category": "Food",
+    "urgency": "high",
+    "keywords": ["food", "refrigerator", "freezer", "spoiled", "outage"],
+    "steps": [
+      "Keep refrigerator and freezer doors closed as much as possible.",
+      "Use refrigerated perishable food first, then freezer food, then shelf-stable food.",
+      "Discard refrigerated perishables after 4 hours without a cold source.",
+      "Discard food that contacted floodwater or unsafe water.",
+      "When in doubt, throw it out."
+    ],
+    "avoid": [
+      "Do not taste food to test safety.",
+      "Do not rely on smell or appearance alone."
+    ],
+    "source_name": "CDC - Keep Food Safe After an Emergency",
+    "source_url": "https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "sanitation",
+    "title": "Emergency sanitation",
+    "category": "Water",
+    "urgency": "medium",
+    "keywords": ["toilet", "sanitation", "waste", "hygiene", "sewage"],
+    "steps": [
+      "Keep human waste away from living, cooking, and water-storage areas.",
+      "If toilets cannot flush, line a sturdy bucket with two heavy bags and add absorbent material after each use.",
+      "Seal waste bags and store them away from people, animals, and water until local disposal is available.",
+      "Wash hands with safe water and soap after toilet use and before food handling.",
+      "Disinfect frequently touched surfaces with an appropriate labeled disinfectant."
+    ],
+    "avoid": [
+      "Do not empty waste near wells, streams, gardens, or floodwater.",
+      "Do not mix bleach with ammonia, acids, or other cleaners."
+    ],
+    "source_name": "CDC - Water, Sanitation, and Hygiene",
+    "source_url": "https://www.cdc.gov/hygiene/about/index.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "lost_navigation",
+    "title": "Lost without GPS",
+    "category": "Navigation",
+    "urgency": "medium",
+    "keywords": ["lost", "gps", "navigation", "wilderness", "trail"],
+    "steps": [
+      "Stop moving, take slow breaths, and assess immediate hazards, daylight, weather, water, and injuries.",
+      "Stay near the last known route unless the location is dangerous.",
+      "Make yourself visible with bright material, a signal mirror, whistle, or three repeated signals.",
+      "Conserve phone battery by using airplane mode and checking for signal at planned intervals.",
+      "Move only with a clear reason, direction, and ability to return; leave markers and a written note."
+    ],
+    "avoid": [
+      "Do not wander downhill or follow an unknown stream automatically.",
+      "Do not split the group unless immediate safety requires it."
+    ],
+    "source_name": "US Forest Service - If You Get Lost",
+    "source_url": "https://www.fs.usda.gov/visit/know-before-you-go/if-you-get-lost",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "emergency_signaling",
+    "title": "Emergency signaling",
+    "category": "Navigation",
+    "urgency": "medium",
+    "keywords": ["signal", "rescue", "whistle", "sos", "help"],
+    "steps": [
+      "Choose an open, safe location visible from the air or likely travel routes.",
+      "Use three repeated whistle blasts, flashes, fires, or other signals, then pause and repeat.",
+      "Make a large ground symbol with contrasting material.",
+      "Use a mirror or reflective object to sweep the horizon and aircraft.",
+      "Keep one signal method ready at night and another for daylight."
+    ],
+    "avoid": [
+      "Do not create a signal fire when wildfire risk is high or fire cannot be contained.",
+      "Do not exhaust batteries with continuous transmission when scheduled checks will work."
+    ],
+    "source_name": "US Forest Service - If You Get Lost",
+    "source_url": "https://www.fs.usda.gov/visit/know-before-you-go/if-you-get-lost",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "shelter_cold",
+    "title": "Emergency shelter in cold conditions",
+    "category": "Shelter",
+    "urgency": "high",
+    "keywords": ["shelter", "cold", "wind", "snow", "overnight"],
+    "steps": [
+      "Choose ground away from falling branches, flood channels, avalanche paths, and exposed ridges.",
+      "Block wind first, then insulate yourself from the ground with dry material.",
+      "Keep the shelter small enough to retain body heat but ventilated.",
+      "Change out of wet clothing and cover the head and neck.",
+      "Use shared body heat carefully while keeping clothing dry."
+    ],
+    "avoid": [
+      "Do not sleep directly on cold ground.",
+      "Do not use a flame or fuel-burning heater in an unventilated shelter."
+    ],
+    "source_name": "CDC - Cold Weather Safety",
+    "source_url": "https://www.cdc.gov/winter-weather/safety/index.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "lightning",
+    "title": "Lightning",
+    "category": "Disaster",
+    "urgency": "critical",
+    "keywords": ["lightning", "thunder", "storm", "strike"],
+    "steps": [
+      "Move into a substantial building or hard-topped metal vehicle.",
+      "Inside, stay away from windows, plumbing, corded devices, and concrete walls or floors.",
+      "If no shelter exists, move away from isolated trees, ridges, water, fences, and metal objects.",
+      "Spread group members apart to reduce multiple casualties.",
+      "Wait at least 30 minutes after the last thunder before leaving shelter."
+    ],
+    "avoid": [
+      "Do not lie flat on the ground.",
+      "Small open shelters, tents, and covered porches do not protect from lightning."
+    ],
+    "source_name": "National Weather Service - Lightning Safety",
+    "source_url": "https://www.weather.gov/safety/lightning",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "frostbite",
+    "title": "Frostbite",
+    "category": "Medical",
+    "urgency": "high",
+    "keywords": ["frostbite", "frozen", "numb", "white skin", "cold injury"],
+    "steps": [
+      "Move to shelter and remove wet clothing and constricting jewelry.",
+      "Protect the area from pressure and refreezing.",
+      "If refreezing can be prevented, warm the area in circulating water around 99 to 104 F (37 to 40 C).",
+      "Separate affected fingers or toes with clean dry material and elevate if possible.",
+      "Seek medical care as soon as possible."
+    ],
+    "avoid": [
+      "Do not rub, massage, walk on frostbitten feet, or use direct dry heat.",
+      "Do not thaw tissue if it may freeze again."
+    ],
+    "source_name": "CDC - Preventing Frostbite",
+    "source_url": "https://www.cdc.gov/winter-weather/prevention/index.html",
+    "reviewed": "2026-06-14"
+  },
+  {
+    "id": "asthma_attack",
+    "title": "Asthma attack",
+    "category": "Medical",
+    "urgency": "critical",
+    "keywords": ["asthma", "wheezing", "inhaler", "breathing"],
+    "steps": [
+      "Sit the person upright, keep them calm, and move away from smoke or known triggers.",
+      "Help them use their prescribed quick-relief inhaler with a spacer if available.",
+      "Follow their written asthma action plan.",
+      "Seek emergency help if they cannot speak in full sentences, lips look blue or gray, symptoms worsen, or the inhaler gives little relief.",
+      "Monitor breathing and be ready to start CPR if they become unresponsive."
+    ],
+    "avoid": [
+      "Do not make the person lie flat.",
+      "Do not use someone else's prescription medicine."
+    ],
+    "source_name": "NHS - Asthma",
+    "source_url": "https://www.nhs.uk/conditions/asthma/",
+    "reviewed": "2026-06-14"
+  }
+]

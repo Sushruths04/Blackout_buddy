@@ -1,0 +1,3 @@
+-r requirements.txt
+modal==1.5.0
+pytest==9.0.2
